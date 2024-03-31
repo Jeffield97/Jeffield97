@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Mikim**
+- 🔭 I’m currently working on **Telconet S.A**
 
 - 🌱 I’m currently learning **pattern design**
 
@@ -26,16 +26,19 @@
 <h4 align="left">Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Javascript--%23F7DF1E?logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/>
-<img src="https://img.shields.io/badge/Python--%233776AB?logo=python" alt="python"/>
-<img src="https://img.shields.io/badge/C%20sharp--%23512BD4?logo=csharp" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python--%233776AB?logo=python" alt="python"/>
+  <img src="https://img.shields.io/badge/C%20sharp--%23512BD4?logo=csharp" alt="C#"/>
+  <img src="https://img.shields.io/badge/-%23777BB4?style=flat-square&logo=php&label=Php" alt="Php"/>
+  <img src="https://img.shields.io/badge/-%23DD0700?style=flat-square&logo=java&label=Java" alt="Java"/>
 </p>
 <h4 align="left">Backend</h4>
 <h6>Frameworks</h6>
 <p>
-  <img src="https://img.shields.io/badge/Node--%23339933?logo=Node.js&logoColor=%23339933" alt="Nodejs"/>
   <img src="https://img.shields.io/badge/Django--%23092E20?logo=django" alt="django"/>
   <img src="https://img.shields.io/badge/Dotnet--%23512BD4?logo=dotnet" alt="dotnet"/>
-  <img src="https://img.shields.io/badge/Express--%23000000?logo=express" alt="azure"/>
+  <img src="https://img.shields.io/badge/Express--%23000000?logo=express" alt="express"/>
+  <img src="https://img.shields.io/badge/-blue?style=flat-square&logo=springboot&label=Springboot" alt="springboot"/>
+  <img src="https://img.shields.io/badge/-red?style=flat-square&logo=symfony&label=Symfony" alt="Symfony"/>
 </p>
 
 <h6>Database</h6>
@@ -43,6 +46,8 @@
 <img src="https://img.shields.io/badge/Mysql--%234479A1" alt="mysql"/>
 <img src="https://img.shields.io/badge/Postgresql--%234169E1?logo=postgresql&labelColor=%23" alt="azure"/>
 <img src="https://img.shields.io/badge/Sqlserver--%23CC2927?logo=microsoftsqlserver&labelColor=%23" alt="azure"/>
+<img src="https://img.shields.io/badge/-red?style=flat-square&logo=oracle&label=Oracle" alt="azure"/>
+   
 </p>
 
 <h4 align="left">Frontend</h4>
@@ -64,13 +69,17 @@
 
 <h4 align="left">Others</h4>
 <p>
-  <img src="https://img.shields.io/badge/Firebase--%23FFCA28?logo=firebase" alt="azure"/>
+  <img src="https://img.shields.io/badge/Firebase--%23FFCA28?logo=firebase" alt="firebase"/>
   <img src="https://img.shields.io/badge/Open%20source--%233DA639?logo=opensourceinitiative" alt="open source"/>
-<img src="https://img.shields.io/badge/Slack--%234A154B?logo=slack&labelColor=%23" alt="azure"/>
-<img src="https://img.shields.io/badge/Linux--%23FCC624?logo=linux" alt="azure"/>
-<img src="https://img.shields.io/badge/Linkedin--%230A66C2?logo=linkedin" alt="azure"/>
-<img src="https://img.shields.io/badge/Graphql--%23E10098?logo=graphql" alt="azure"/>
-<img src="https://img.shields.io/badge/Postman--%23FF6C37?logo=postman" alt="azure"/>
+  <img src="https://img.shields.io/badge/Slack--%234A154B?logo=slack&labelColor=%23" alt="slack"/>
+  <img src="https://img.shields.io/badge/Linux--%23FCC624?logo=linux" alt="linux"/>
+</p>
+<p>
+  
+  <img src="https://img.shields.io/badge/Linkedin--%230A66C2?logo=linkedin" alt="Linkedin"/>
+  <img src="https://img.shields.io/badge/Graphql--%23E10098?logo=graphql" alt="Graphql"/>
+  <img src="https://img.shields.io/badge/Postman--%23FF6C37?logo=postman" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Node--%23339933?logo=Node.js&logoColor=%23339933" alt="Nodejs"/>
 </p>
 
 
